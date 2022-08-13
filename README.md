@@ -1,6 +1,6 @@
 # Final-project (MovieList)
 
-###[Siteye ulaşmak için tıklayınız]()
+### [Siteye ulaşmak için tıklayınız]()
 
 ## Proje Tanıtım
 - Kayıt olma
