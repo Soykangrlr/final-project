@@ -1,0 +1,11 @@
+.titledate {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btngruop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
